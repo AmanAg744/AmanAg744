@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Aman Agarwal</h1>
 <h3 align="center">A Machine Learning enthusiast who is passionate about AI :zap:, FinTech :dollar:, and Robotics:wrench:.</h3>
